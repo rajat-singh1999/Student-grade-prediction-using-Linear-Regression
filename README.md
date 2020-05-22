@@ -11,3 +11,5 @@ Requirement:
 2. Pandas
 3. Sklearn
 4. Matplotlib(for visualizing data)
+
+Note that all files must be in the same directory
